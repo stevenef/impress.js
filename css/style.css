@@ -109,7 +109,11 @@ blockquote .author {
 
 /* STEP SPECIFIC STYLES */
 #title {text-align: center; }
-#title-text1 { font-size: 100px; }
+#title-text1 { font-size: 200px; }
+
+#service-text1 { font-size: 200px; }
+
+#email-text1 { font-size: 200px; }
 
 #respond-text1 { font-size: 84px; }
 #respond-text2 { font-size: 202px; }
