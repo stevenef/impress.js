@@ -1,6 +1,14 @@
 html { overflow: hidden; }
 body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
+p {
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
 .background {
 	position: fixed;
 	height: 100%;
@@ -60,6 +68,7 @@ a:hover { color: #333;}
 .light { font-weight: 400; }
 .extralight { font-weight: 300; letter-spacing: .1em; }
 .small { display: block; padding: 20px; font-size: 20px; font-weight: 600; }
+.footnote { display: block; padding: 20px; font-size: 20px; font-weight: 100; }
 .s-green { color: #8eb92e; }
 .s-gray { color: #3e3e3e; }
 
@@ -89,7 +98,7 @@ blockquote .author {
 .step {
     text-align: center;
     width: 1000px;
-    padding: 20px;
+    /*padding: 20px;*/
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing:    border-box;
@@ -113,6 +122,12 @@ blockquote .author {
 #title {text-align: center; }
 #title-text1 { font-size: 200px; }
 #title-text2 { font-size: 120px; }
+
+#cloud1-text1 { font-size: 120px; }
+#cloud1-text2 { font-size: 93px; padding-bottom: 40px; position: relative; }
+
+#speicher-text1 { font-size: 93px; padding-bottom: 0px; position: relative; }
+#speicher-text2 { font-size: 75px; padding: 10px 0px 10px 0px; position: relative; }
 
 #facebook1-text1 { font-size: 120px; }
 
