@@ -1,5 +1,5 @@
 html { overflow: hidden; }
-body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
+body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; color: #3e3e3e}
 
 p {
     display: block;
@@ -131,7 +131,34 @@ blockquote .author {
 
 #facebook1-text1 { font-size: 120px; }
 
-#service-text1 { font-size: 200px; }
+#typ-text1 { font-size: 50px; position: absolute; padding: 120px 0px 0px 500px;}
+#typ-text2 { font-size: 30px; position: absolute; padding: 170px 0px 0px 500px;}
+#typ-text3 { font-size: 30px; position: absolute; padding: 170px 0px 0px 500px;}
+#typ-text4 { font-size: 30px; position: absolute; padding: 170px 0px 0px 500px;}
+
+#service-text1 { font-size: 120px; padding-bottom: 30px;}
+
+#iaas-text1 { font-size: 55px; padding-bottom: 30px;}
+#iaas-text2 { font-size: 350px; }
+#iaas-text3 { font-size: 54px; padding: 30px 0px 30px;}
+#iaas-text4 { font-size: 41px;}
+
+#iaas2-text1 { font-size: 250px;}
+#iaas3-text1 { font-size: 100px;}
+#iaas4-text1 { font-size: 62px;}
+#iaas5-text1 { font-size: 153px;}
+#iaas6-text1 { font-size: 80px;}
+
+
+#paas-text1 { font-size: 67px; padding-bottom: 30px;}
+#paas-text2 { font-size: 350px; }
+#paas-text3 { font-size: 57px; padding: 30px 0px 30px 0px;}
+#paas-text4 { font-size: 36px; }
+
+#saas-text1 { font-size: 67px; padding-bottom: 30px;}
+#saas-text2 { font-size: 350px; }
+#saas-text3 { font-size: 57px; padding: 30px 0px 30px 0px;}
+#saas-text4 { font-size: 45px; }
 
 #email-text1 { font-size: 200px; }
 
