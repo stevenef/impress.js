@@ -136,6 +136,8 @@ blockquote .author {
 
 #facebook1-text1 { font-size: 120px; }
 
+#typ-text0 { font-size: 200px;}
+
 #typ-text1 { font-size: 50px; position: absolute; padding: 120px 0px 0px 500px;}
 #typ-text2 { font-size: 30px; position: absolute; padding: 170px 0px 0px 500px;}
 #typ-text3 { font-size: 30px; position: absolute; padding: 170px 0px 0px 500px;}
@@ -198,6 +200,13 @@ blockquote .author {
 #pro2-text2 { padding: 20px 0px 50px 0px; }
 #pro2-text3 { font-size: 80px; }
 #pro2-text4 { font-size: 100px; padding-top: 20px;}
+
+#contra-text1 { font-size: 80px;}
+#contra-text2 { font-size: 105px; padding-top: 20px;}
+
+#contra1-text1 { font-size: 80px; letter-spacing: 20px;}
+#contra1-text2 { font-size: 135px; padding-top: 20px;}
+
 
 #credits { width: 1200px; padding: 0; }
 #credits .big { font-size: 150px; }
