@@ -123,6 +123,9 @@ blockquote .author {
 #title-text1 { font-size: 200px; }
 #title-text2 { font-size: 120px; }
 
+#def-text1 { font-size: 140px; }
+#def-text2 { font-size: 100px; }
+
 #cloud1-text1 { font-size: 120px; }
 #cloud1-text2 { font-size: 93px; padding-bottom: 40px; position: relative; }
 
@@ -155,10 +158,23 @@ blockquote .author {
 #paas-text3 { font-size: 57px; padding: 30px 0px 30px 0px;}
 #paas-text4 { font-size: 36px; }
 
+#paas2-text1 { font-size: 70px;}
+#paas3-text1 { font-size: 70px;}
+#paas4-text1 { font-size: 108px;}
+#paas5-text1 { font-size: 90px;}
+#paas6-text1 { font-size: 120px;}
+
 #saas-text1 { font-size: 67px; padding-bottom: 30px;}
 #saas-text2 { font-size: 350px; }
 #saas-text3 { font-size: 57px; padding: 30px 0px 30px 0px;}
 #saas-text4 { font-size: 45px; }
+
+#saas2-text1 { font-size: 172px;}
+#saas2-text2 { font-size: 62px; padding: 30px 0px 20px 0px;}
+#saas2-text3 { font-size: 50px;}
+#saas2-text4 { font-size: 80px; padding: 20px 0px 20px 0px;}
+#saas2-text5 { font-size: 50px;}
+#saas2-text6 { font-size: 164px; padding: 20px 0px 20px 0px;}
 
 #email-text1 { font-size: 200px; }
 
